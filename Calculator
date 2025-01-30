@@ -6,3 +6,24 @@ int a+b;
 Console.WriteLine($"The addition of two numbers");
 int a = Convert.ToInt32(Console.ReadLine();
 int b = Convert.ToInt32(Console.ReadLine();
+Addition
+=======
+int a;
+int b;
+int a-b;
+Console.WriteLine($"The subtraction of two numbers");
+int a = Convert.ToInt32(Console.ReadLine();
+int b = Convert.ToInt32(Console.ReadLine();
+int a;
+int b;
+int a*b;
+Console.WriteLine($"The multiplication of two numbers");
+int a = Convert.ToInt32(Console.ReadLine();
+int b = Convert.ToInt32(Console.ReadLine();
+int a;
+int b;
+int a/b;
+Console.WriteLine($"The Division of two numbers");
+int a = Convert.ToInt32(Console.ReadLine();
+int b = Convert.ToInt32(Console.ReadLine();
+main
